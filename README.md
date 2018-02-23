@@ -9,4 +9,4 @@ Here the dataset contains the images of flowers and other images which are not o
 
 The task is to predict if the image is of flower or not. 
 
-Each image is of 64*64*3 matrix.
+Each image is of 64 X 64 X 3 matrix.
